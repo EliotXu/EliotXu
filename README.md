@@ -1,6 +1,6 @@
 # EliotXu
-## I come from China.
-## I am thirty one years old. 
-## I am living in Shenzhen.
-## I like coffee and travel.
-## I will coding everyday.
+I come from China.<br/>
+I am thirty one years old.<br/>
+I am living in Shenzhen.<br/>
+I like coffee and travel.<br/>
+I will coding everyday.
